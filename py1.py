@@ -1,2 +1,2 @@
-print('Hi!!!')
-n=n+1
+print('Hi!!!' * 6)
+n = n + 1
